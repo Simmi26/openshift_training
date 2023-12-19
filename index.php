@@ -1,6 +1,6 @@
 <?php
 print "i am simran\n";
 
-print "new feature \n <br />";
+print "new feature added \n <br />";
 
 ?>
